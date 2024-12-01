@@ -20,7 +20,7 @@ powershell -Command "Start-Process '%0' -Verb RunAs"
 exit
 
 :continue
-echo Privilèges administrateur confirmés.
+echo Privileges administrateur confirmes.
 echo.
 
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverride /t REG_DWORD /d 3
