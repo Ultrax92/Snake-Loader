@@ -1,5 +1,6 @@
 {
-    "version": "1.0.0",
-    "changelog": "First Test",
-    "download_url": "https://github.com/Ultrax92/Snake-Loader/archive/refs/heads/main.zip"
+    "LoaderVersion": "1.0.0",
+    "LoaderChangelog": "First Test",
+    "UpdaterVersion": "1.0.0",
+    "UpdaterChangelog": "First Test"
 }
