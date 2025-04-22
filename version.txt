@@ -1,2 +1,2 @@
-LoaderVersion=1.0.3
+LoaderVersion=1.0.4
 UpdaterVersion=1.0.0
