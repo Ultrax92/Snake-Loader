@@ -4,7 +4,7 @@ LoaderVersion=1.1.0
 -------TOOLS-------
 LDV3Version=1.0.0
 PROGRESSVersion=1.0.2
-ExternalV3Version=1.1.3
+ExternalV3Version=1.1.4
 
 -------UPDATER-------
 UpdaterVersion=1.0.0
